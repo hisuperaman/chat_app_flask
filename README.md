@@ -11,7 +11,11 @@ password = admin123
 <h5>3. Create virtual environment using <br>python -m venv venv</h5>
 <h5>4. Activate the virtual environment <br>venv/scripts/activate</h5>
 <h5>5. Install the required dependencies using <br>pip install -r requirements.txt</h5>
-<h5>6. Open flask shell using <br>flask shell</h5>
+<h5>6. Open flask shell using 
+  <pre>
+    flask shell
+  </pre>
+</h5>
 <h5>7. In the shell write following to create tables of the database 
   <pre>
     from app import db
@@ -19,4 +23,10 @@ password = admin123
     exit()
   </pre>
 </h5>
-<h5>8. Run the flask app using <br>py app.py <br>or<br>flask run</h5>
+<h5>8. Run the flask app using
+<pre>
+  py app.py
+  or
+  flask run
+</pre>
+</h5>
