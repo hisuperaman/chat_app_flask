@@ -1,6 +1,6 @@
 # chat_app_flask
 
-<h5><pre>
+<h5>Admin Credentials are:<pre>
 username = admin
 password = admin123
 </pre>
